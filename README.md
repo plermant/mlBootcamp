@@ -1,2 +1,2 @@
 # ml - latest
-This is where Pierre logs his work for UCSD bootcamp
+https://docs.google.com/document/d/16Hr76mYMeTO8Yvykn6mI376-I3TitgLcNi5_ZkJvhAw
